@@ -30,4 +30,4 @@ function hitungUmur(tahunLahir: number): number {
     return umurHasil;
 }
 
-console.log(hitungUmur(2008)); // output: 18
+console.log(hitungUmur(2009)); // output: 18
